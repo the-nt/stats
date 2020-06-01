@@ -58,6 +58,7 @@ public class TimerTask extends BukkitRunnable {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
+	        time = main.getTime()+1;
 	        
 	        
 		}
