@@ -1,0 +1,10 @@
+#Coonexion au serveur MYSQL (BDD)
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "java"
+  username: "java"
+  password: "java"
+  
+#Intervale de temps en seconde pour l'ajout en BDD
+timer: 60
